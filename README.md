@@ -6,7 +6,6 @@
 
 ## Ken Kousen - Mockito Made Clear Java Unit Testing with Mocks, Stubs, and Spies
 2023, 87 pages, read period: 06.01.24 - 09.01.24\
-<!-- ![Mockito logo](/covers/Mockito.png "Mockito logo")\ -->
 <img src="./covers/Mockito.png" alt="Mockito logo" height="500"/>
 
 ## Robert C. Martin - Clean Craftsmanship (Russian verion: Идеальная Работа)
