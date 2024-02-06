@@ -4,7 +4,9 @@
 2022, 115 pages, read period: 09.01.24 - 07.02.24
 
 ## Ken Kousen - Mockito Made Clear Java Unit Testing with Mocks, Stubs, and Spies
-2023, 87 pages, read period: 06.01.24 - 09.01.24
+2023, 87 pages, read period: 06.01.24 - 09.01.24\
+![Mockito logo](/covers/Mockito.png "Mockito logo")\
+<img src="./covers/Mockito.png" alt="Mockito logo" width="200"/>
 
 ## Robert C. Martin - Clean Craftsmanship (Russian verion: Идеальная Работа)
 2024, 384 pages, read period: 31.12.23 - 06.01.24
