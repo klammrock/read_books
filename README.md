@@ -1,6 +1,6 @@
 # read books
 
-## Robert C. Martin - Clean Code (Russian verion: Чистый Код)
+## Robert C. Martin - Clean Code (Russian version: Чистый Код)
 2012, 464 pages, reading period: 13.01.24 - 22.02.24\
 <img src="./covers/CleanCode.jpg" alt="CleanCode logo" height="500"/>
 
@@ -12,6 +12,6 @@
 2023, 87 pages, reading period: 06.01.24 - 09.01.24\
 <img src="./covers/Mockito.png" alt="Mockito logo" height="500"/>
 
-## Robert C. Martin - Clean Craftsmanship (Russian verion: Идеальная Работа)
+## Robert C. Martin - Clean Craftsmanship (Russian version: Идеальная Работа)
 2024, 384 pages, reading period: 31.12.23 - 06.01.24\
 <img src="./covers/CleanCraftsmanship.png" alt="Mockito logo" height="500"/>
