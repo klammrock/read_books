@@ -1,5 +1,9 @@
 # read books
 
+## Robert C. Martin - Clean Code (Russian verion: Чистый Код)
+2012, 464 pages, read period: 13.01.24 - 22.02.24\
+<img src="./covers/CleanCode.jpg" alt="CleanCode logo" height="500"/>
+
 ## Nik Lumi - EXCEPTIONS IN JAVA (Basics, advanced concepts, and real API examples)
 2022, 115 pages, read period: 09.01.24 - 07.02.24\
 <img src="./covers/Exceptions.png" alt="Exceptions logo" height="500"/>
