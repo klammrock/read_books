@@ -1,6 +1,6 @@
 # read books
 
-## Mark Heckler- Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications (Russian version: Spring Boot по-быстрому. Создаем облачные приложения на Java и Kotlin)
+## Mark Heckler- Spring Boot: Up and Running (Russian version: Spring Boot по-быстрому)
 2022, 352 pages, reading period: 13.03.24 - 31.08.24\
 <img src="./covers/SpringBootUpAndRunning.jpg" alt="SpringBootUpAndRunning logo" height="500"/>
 <br />
