@@ -5,6 +5,11 @@
 <img src="./covers/SpringBootUpAndRunning.jpg" alt="SpringBootUpAndRunning logo" height="500"/>
 <br />
 
+## Orange Pi Zero 3 User Manual
+2023, 321 pages, reading period: 29.06.24 - 01.08.24\
+<img src="./covers/OrangePiZero3UserManual.png" alt="Orange Pi Zero 3 User Manual logo" height="500"/>
+<br />
+
 ## Robert C. Martin - Clean Code (Russian version: Чистый Код)
 2012, 464 pages, reading period: 13.01.24 - 22.02.24\
 <img src="./covers/CleanCode.jpg" alt="CleanCode logo" height="500"/>
