@@ -1,6 +1,11 @@
 # read books
 
-## Mark Heckler- Spring Boot: Up and Running (Russian version: Spring Boot по-быстрому)
+## Gian Marco Iodice - TinyML Cookbook (Russian version: TinyML Книга рецептов)
+2024, 298 pages, reading period: 22.02.24 - 29.10.24\
+<img src="./covers/TinyML.jpg" alt="TinyML logo" height="500"/>
+<br />
+
+## Mark Heckler - Spring Boot: Up and Running (Russian version: Spring Boot по-быстрому)
 2022, 352 pages, reading period: 13.03.24 - 31.08.24\
 <img src="./covers/SpringBootUpAndRunning.jpg" alt="SpringBootUpAndRunning logo" height="500"/>
 <br />
