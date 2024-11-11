@@ -1,5 +1,10 @@
 # read books
 
+## Orange Pi R1 Plus LTS User Manual
+2020, 170 pages, reading period: 30.10.24 - 12.11.24\
+<img src="./covers/OrangePiR1PlusLTSUserManual.png" alt="Orange Pi R1 Plus LTS User Manual logo" height="500"/>
+<br />
+
 ## Gian Marco Iodice - TinyML Cookbook (Russian version: TinyML Книга рецептов)
 2024, 298 pages, reading period: 22.02.24 - 29.10.24\
 <img src="./covers/TinyML.jpg" alt="TinyML logo" height="500"/>
