@@ -1,5 +1,10 @@
 # read books
 
+## Жуков А. Н. - Хакерство. Физические атаки с использованием хакерских устройств
+2023, 306 pages, reading period: 28.11.24 - 03.01.25\
+<img src="./covers/HackPhys.jpg" alt="Orange Pi R1 Plus LTS User Manual logo" height="500"/>
+<br />
+
 ## Orange Pi R1 Plus LTS User Manual
 2020, 170 pages, reading period: 30.10.24 - 12.11.24\
 <img src="./covers/OrangePiR1PlusLTSUserManual.png" alt="Orange Pi R1 Plus LTS User Manual logo" height="500"/>
