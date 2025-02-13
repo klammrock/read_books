@@ -1,5 +1,10 @@
 # read books
 
+## Kevin Mitnick - The Art of Invisibility (Russian version: Искусство быть невидимым)
+2019, 464 pages, reading period: 14.01.25 - 14.02.25\
+<img src="./covers/MitnickInvisibility.jpeg" alt="Orange Pi R1 Plus LTS User Manual logo" height="500"/>
+<br />
+
 ## Жуков А. Н. - Хакерство. Физические атаки с использованием хакерских устройств
 2023, 306 pages, reading period: 28.11.24 - 03.01.25\
 <img src="./covers/HackPhys.jpg" alt="Orange Pi R1 Plus LTS User Manual logo" height="500"/>
