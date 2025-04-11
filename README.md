@@ -1,5 +1,10 @@
 # read books
 
+## Ted Young & Austin Parker - Learning OpenTelemetry (Russian version: Изучаем OpenTelemetry)
+2025, 240 pages, reading period: 27.03.25 - 12.04.25\
+<img src="./covers/opentelemetry.jpg" alt="OpenTelemetry logo" height="500"/>
+<br />
+
 ## Бирюков А. А. - Информационная безопасность: защита и нападение (3-е изд.)
 2024, 442 pages, reading period: 03.01.25 - 02.03.25\
 <img src="./covers/BiryukovInformationSecurity.jpg" alt="Biryukov Information Security logo" height="500"/>
