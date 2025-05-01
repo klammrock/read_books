@@ -1,5 +1,10 @@
 # read books
 
+## Alexei Khlebnikov - Demystifying Cryptography with OpenSSL 3.0 (Russian version: OpenSSL 3: ключ к тайнам криптографии)
+2023, 302 pages, reading period: 10.02.25 - 02.05.25\
+<img src="./covers/OpenSSL.webp" alt="OpenSSL logo" height="500"/>
+<br />
+
 ## Ted Young & Austin Parker - Learning OpenTelemetry (Russian version: Изучаем OpenTelemetry)
 2025, 240 pages, reading period: 27.03.25 - 12.04.25\
 <img src="./covers/opentelemetry.jpg" alt="OpenTelemetry logo" height="500"/>
