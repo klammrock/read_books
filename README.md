@@ -1,5 +1,10 @@
 # read books
 
+## Alex Xu - System Design Interview – An insider's guide (Russian version: System Design. Подготовка к сложному интервью)
+2022, 304 pages, reading period: 13.05.25 - 16.05.25\
+<img src="./covers/XuSystemDesign.webp" alt="Xu System Design.webp logo" height="500"/>
+<br />
+
 ## Alexei Khlebnikov - Demystifying Cryptography with OpenSSL 3.0 (Russian version: OpenSSL 3: ключ к тайнам криптографии)
 2023, 302 pages, reading period: 10.02.25 - 02.05.25\
 <img src="./covers/OpenSSL.webp" alt="OpenSSL logo" height="500"/>
