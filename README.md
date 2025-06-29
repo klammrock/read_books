@@ -1,8 +1,13 @@
 # read books
 
+## Ян Франсуа - Half-Life. Как Valve создала культовый шутер от первого лица
+2024, 304 pages, reading period: 15.02.25 - 30.06.25\
+<img src="./covers/HalfLife.jpeg" alt="Half Life logo" height="500"/>
+<br />
+
 ## Alex Xu - System Design Interview – An insider's guide (Russian version: System Design. Подготовка к сложному интервью)
 2022, 304 pages, reading period: 13.05.25 - 16.05.25\
-<img src="./covers/XuSystemDesign.webp" alt="Xu System Design.webp logo" height="500"/>
+<img src="./covers/XuSystemDesign.webp" alt="Xu System Design logo" height="500"/>
 <br />
 
 ## Alexei Khlebnikov - Demystifying Cryptography with OpenSSL 3.0 (Russian version: OpenSSL 3: ключ к тайнам криптографии)
