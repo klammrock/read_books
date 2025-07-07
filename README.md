@@ -1,5 +1,10 @@
 # read books
 
+## Коллектив авторов журнала "Хакер" - Искусственный интеллект глазами хакера
+2025, 112 pages, reading period: 01.07.25 - 07.07.25\
+<img src="./covers/HackAI.jpg" alt="Hack AI logo" height="500"/>
+<br />
+
 ## Ян Франсуа - Half-Life. Как Valve создала культовый шутер от первого лица
 2024, 304 pages, reading period: 15.02.25 - 30.06.25\
 <img src="./covers/HalfLife.jpeg" alt="Half Life logo" height="500"/>
