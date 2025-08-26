@@ -1,5 +1,10 @@
 # read books
 
+## Jeff Carpenter, Eben Hewitt - Cassandra: The Definitive Guide: Distributed Data at Web Scale 2nd -  (Russian version: Cassandra. Полное руководство. 2-е изд.)
+2017, 400 pages, reading period: 26.07.25 - 26.08.25\
+<img src="./covers/Cassandra.webp" alt="Cassandra logo" height="500"/>
+<br />
+
 ## Коллектив авторов журнала "Хакер" - Искусственный интеллект глазами хакера
 2025, 112 pages, reading period: 01.07.25 - 07.07.25\
 <img src="./covers/HackAI.jpg" alt="Hack AI logo" height="500"/>
