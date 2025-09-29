@@ -1,5 +1,10 @@
 # read books
 
+## Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea - Java Concurrency in Practice (Russian version: Java Concurrency на практике)
+2020, 464 pages, reading period: 22.07.25 - 29.09.25\
+<img src="./covers/JavaConcurrency.jpg" alt="Java Concurrency logo" height="500"/>
+<br />
+
 ## Jeff Carpenter, Eben Hewitt - Cassandra: The Definitive Guide: Distributed Data at Web Scale 2nd -  (Russian version: Cassandra. Полное руководство. 2-е изд.)
 2017, 400 pages, reading period: 26.07.25 - 26.08.25\
 <img src="./covers/Cassandra.webp" alt="Cassandra logo" height="500"/>
