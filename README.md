@@ -1,5 +1,10 @@
 # read books
 
+## Martin Kleppmann - Designing Data-Intensive Applications (Russian version: Высоконагруженные приложения. Программирование, масштабирование, поддержка)
+2018, 640 pages, reading period: 30.09.25 - 16.01.26\
+<img src="./covers/DIA.webp" alt="DIA logo" height="500"/>
+<br />
+
 ## Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea - Java Concurrency in Practice (Russian version: Java Concurrency на практике)
 2020, 464 pages, reading period: 22.07.25 - 29.09.25\
 <img src="./covers/JavaConcurrency.jpg" alt="Java Concurrency logo" height="500"/>
