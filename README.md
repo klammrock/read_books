@@ -1,5 +1,10 @@
 # read books
 
+## Joe Gray - Practical Social Engineering: A Primer for the Ethical Hacker (Russian version: Социальная инженерия и этичный хакинг на практике)
+2023, 226 pages, reading period: 16.01.26 - 02.02.2026\
+<img src="./covers/SocEng.jpg" alt="SocEng logo" height="500"/>
+<br />
+
 ## Martin Kleppmann - Designing Data-Intensive Applications (Russian version: Высоконагруженные приложения. Программирование, масштабирование, поддержка)
 2018, 640 pages, reading period: 30.09.25 - 16.01.26\
 <img src="./covers/DIA.webp" alt="DIA logo" height="500"/>
