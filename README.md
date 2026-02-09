@@ -1,5 +1,10 @@
 # read books
 
+## Armbian Documentation
+2025, 50 pages, reading period: 04.03.25 - 08.02.2026\
+<img src="./covers/Armbian.png" alt="Armbian logo" height="500"/>
+<br />
+
 ## Joe Gray - Practical Social Engineering: A Primer for the Ethical Hacker (Russian version: Социальная инженерия и этичный хакинг на практике)
 2023, 226 pages, reading period: 16.01.26 - 02.02.2026\
 <img src="./covers/SocEng.jpg" alt="SocEng logo" height="500"/>
