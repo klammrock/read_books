@@ -1,5 +1,10 @@
 # read books
 
+## Дмитрий Агарунов - Бизнес в стиле Ж
+2026, 96 pages, reading period: 22.04.25 - 01.05.26\
+<img src="./covers/xakep_business.png" alt="Xakep business logo" height="500"/>
+<br />
+
 ## William Lyon - Full Stack GraphQL Applications: With React, Node.js, and Neo4j
 2022, 264 pages, reading period: 12.04.25 - 09.03.26\
 <img src="./covers/GraphQL.jpg" alt="GraphQL logo" height="500"/>
