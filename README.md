@@ -1,7 +1,7 @@
 # read books
 
 ## Дмитрий Агарунов - Бизнес в стиле Ж
-2026, 96 pages, reading period: 22.04.25 - 01.05.26\
+2026, 96 pages, reading period: 22.04.26 - 01.05.26\
 <img src="./covers/xakep_business.png" alt="Xakep business logo" height="500"/>
 <br />
 
