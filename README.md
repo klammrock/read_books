@@ -1,5 +1,10 @@
 # read books
 
+## Vladimir Provorov - Architecting Agentic Solutions with Claude
+2026, 146 pages, reading period: 10.05.26 - 10.06.26\
+<img src="./covers/claude.png" alt="Clasude logo" height="500"/>
+<br />
+
 ## Дмитрий Агарунов - Бизнес в стиле Ж
 2026, 96 pages, reading period: 22.04.26 - 01.05.26\
 <img src="./covers/xakep_business.png" alt="Xakep business logo" height="500"/>
