@@ -1,13 +1,18 @@
 # read books
 
+## Александр Певненко - Тестирование, контроль и оптимизация кода Java
+2025, 384 pages, reading period: 26.07.26 - 16.08.26\
+<img src="./covers/java_test_optimiz.webp" alt="Java Test Optimiz logo" height="500"/>
+<br />
+
 ## Tom Taulli - AI-Assisted Programming (Russian version: Программирование с помощью искусственного интеллекта)
 2025, 240 pages, reading period: 02.05.26 - 25.06.26\
-<img src="./covers/ai_prog.webp" alt="Clasude logo" height="500"/>
+<img src="./covers/ai_prog.webp" alt="AI Prog logo" height="500"/>
 <br />
 
 ## Vladimir Provorov - Architecting Agentic Solutions with Claude
 2026, 146 pages, reading period: 10.05.26 - 10.06.26\
-<img src="./covers/claude.png" alt="Clasude logo" height="500"/>
+<img src="./covers/claude.png" alt="Claude logo" height="500"/>
 <br />
 
 ## Дмитрий Агарунов - Бизнес в стиле Ж
