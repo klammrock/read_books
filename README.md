@@ -1,5 +1,10 @@
 # read books
 
+## Лю Цзян - OpenClaw. Как разработать собственного ИИ-агента за час
+2026, 178 pages, reading period: 03.09.26 - 23.09.26\
+<img src="./covers/open_claw.jpeg" alt="OpenClaw logo" height="500"/>
+<br />
+
 ## Александр Певненко - Тестирование, контроль и оптимизация кода Java
 2025, 384 pages, reading period: 26.07.26 - 16.08.26\
 <img src="./covers/java_test_optimiz.webp" alt="Java Test Optimiz logo" height="500"/>
