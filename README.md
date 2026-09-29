@@ -7,7 +7,7 @@
 
 ## Лю Цзян - OpenClaw. Как разработать собственного ИИ-агента за час
 2026, 178 pages, reading period: 03.09.26 - 23.09.26\
-<img src="./covers/open_claw.jpeg" alt="OpenClaw logo" height="500"/>
+<img src="./covers/OpenClaw.jpg" alt="OpenClaw logo" height="500"/>
 <br />
 
 ## Александр Певненко - Тестирование, контроль и оптимизация кода Java
