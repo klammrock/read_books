@@ -1,5 +1,10 @@
 # read books
 
+## Кампос Нуну, Ошин Майо - Изучаем LangChain: разработка AI- и LLM-приложений с использованием LangChain и LangGraph
+2026, 288 pages, reading period: 16.08.26 - 29.09.26\
+<img src="./covers/langchain.jpg" alt="LangChain logo" height="500"/>
+<br />
+
 ## Лю Цзян - OpenClaw. Как разработать собственного ИИ-агента за час
 2026, 178 pages, reading period: 03.09.26 - 23.09.26\
 <img src="./covers/open_claw.jpeg" alt="OpenClaw logo" height="500"/>
